@@ -1,1 +1,1 @@
-# Modeling-the-Probabilistic-Distribution-of-Unlabeled-Data
+Please email me (dyh.ustc.uts@gmail.com) if you want the code and datasets
