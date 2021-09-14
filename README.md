@@ -1,7 +1,7 @@
 Please email me (dyh.ustc.uts@gmail.com) if you want the code and dataset.
 
 # AAAI2021
-code for Modeling the Probabilistic Distribution of Unlabeled Data forOne-shot Medical Image Segmentation
+code for Modeling the Probabilistic Distribution of Unlabeled Data for One-shot Medical Image Segmentation
 
 
 ## Prerequisites
